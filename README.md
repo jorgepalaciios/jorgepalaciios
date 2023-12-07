@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there, my name is Jorge Palacios 👋
+I am a systems engineer with +5 years of experience developing in several languages,
+specially in Python 🐍
 <!--
 **jorgepalaciios/jorgepalaciios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
