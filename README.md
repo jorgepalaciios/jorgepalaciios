@@ -41,7 +41,7 @@ Cool projects will be added soon I promise!
 
 **Personal touch**
 
-[Everything always gonna be alright, that's for sure, just breathe ]
+Everything always gonna be alright, that's for sure, just breathe 
 
 <!--
 **jorgepalaciios/jorgepalaciios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
