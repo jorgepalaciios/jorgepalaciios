@@ -2,7 +2,7 @@
 -->
 ## Hello, Everyone! 
 
-I'm Jorge Palacios, a systems engineer passionate about software development.
+My name is Jorge Palacios, I'm a systems engineer passionate about software development.
 
 <!-- [Image depicting your interests] add some cool images about this -->
 
@@ -11,6 +11,12 @@ I'm Jorge Palacios, a systems engineer passionate about software development.
 * Pyhton
 * React
 * Docker
+* CSS
+* HTML
+* Javascript
+* Next.js
+* Django
+* Git
 
 <!-- [Progress bars or badges showcasing your skills] NO PROGRESS BARS-->
 
