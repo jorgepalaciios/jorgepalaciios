@@ -41,7 +41,7 @@ Cool projects will be added soon I promise!
 **Connect with me**
 
 * Website: [coming.soon]
-* Portfolio: [on.development some fixes needed]
+* Portfolio: [(https://jorgepalaciios.github.io/) on.development some fixes needed]
 * GitHub: [https://github.com/jorgepalaciios/]
 * X: [https://x.com/jorgepalaciios]
 
