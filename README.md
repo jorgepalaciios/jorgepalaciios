@@ -45,7 +45,7 @@ Cool projects will be added soon I promise!
 * GitHub: [https://github.com/jorgepalaciios/]
 * X: [https://x.com/jorgepalaciios]
 
-**Personal touch**
+
 
 Everything always gonna be alright, that's for sure, just breathe 
 
